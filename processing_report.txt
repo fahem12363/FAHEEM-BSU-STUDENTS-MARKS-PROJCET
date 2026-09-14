@@ -1,0 +1,11 @@
+STUDENT MARKS DATA PROCESSING REPORT
+====================================
+Input file: input_data.csv
+Output file: processed_results.csv
+Valid records processed: 8
+Invalid records skipped: 0
+Overall class average: 56.75
+Passed: 6
+Failed: 2
+Highest average: Sophie Brown (80.33)
+Lowest average: Jack Taylor (31.33)

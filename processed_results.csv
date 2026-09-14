@@ -1,0 +1,9 @@
+student_id,student_name,assessment1,assessment2,assessment3,total,average,classification,result
+S001,Aisha Khan,72.0,68.0,75.0,215.0,71.67,First,Pass
+S002,Daniel Smith,55.0,61.0,58.0,174.0,58.00,2:2,Pass
+S003,Hamza Ali,39.0,42.0,36.0,117.0,39.00,Fail,Fail
+S004,Sophie Brown,81.0,76.0,84.0,241.0,80.33,First,Pass
+S005,Noah Williams,46.0,51.0,49.0,146.0,48.67,Third,Pass
+S006,Maryam Ahmed,64.0,67.0,70.0,201.0,67.00,2:1,Pass
+S007,Jack Taylor,28.0,35.0,31.0,94.0,31.33,Fail,Fail
+S008,Zara Hussain,58.0,54.0,62.0,174.0,58.00,2:2,Pass
